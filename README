@@ -1,0 +1,10 @@
+Conclusion
+
+Max Heap Sort and Min Heap Sort are efficient comparison-based sorting algorithms that use a heap data structure to arrange elements. Both have a time complexity of O(n log n) in the best, average, and worst cases. Max Heap Sort is generally used to sort elements in ascending order, while Min Heap Sort can be used to sort elements in descending order. Both algorithms require O(1) auxiliary space when implemented in-place.
+
+Summary
+Max Heap Sort: Builds a Max Heap where the largest element is at the root and repeatedly places it at the end of the array.
+Min Heap Sort: Builds a Min Heap where the smallest element is at the root and repeatedly places it according to the required ordering.
+Time Complexity: O(n log n)
+Space Complexity: O(1) auxiliary space
+Advantage: Efficient for large datasets and does not require additional arrays
